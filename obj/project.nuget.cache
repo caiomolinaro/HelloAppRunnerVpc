@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "8BXIoczJwib9kM4dJOkIt74P4qf2fYBw/51ZjjKqs/nWyogzKyKgJEp0qXzizWbiDfEh4ni79Vs/pzVWu0LziQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cmoli\\OneDrive\\Área de Trabalho\\DEV\\AWS\\PROJECTSREPO\\HelloAppRunnerVpc\\HelloAppRunnerVpc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cmoli\\.nuget\\packages\\awssdk.core\\3.7.302.16\\awssdk.core.3.7.302.16.nupkg.sha512",
+    "C:\\Users\\cmoli\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.301.19\\awssdk.dynamodbv2.3.7.301.19.nupkg.sha512",
+    "C:\\Users\\cmoli\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\cmoli\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\cmoli\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\cmoli\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\cmoli\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\cmoli\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

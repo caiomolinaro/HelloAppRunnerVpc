@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZQfx6ns7u4/MMDrSTDTbvvkuY7zuX5mxI3MNwoNwH0I=",
+  "Source": "HelloAppRunnerVpc",
+  "BasePath": "_content/HelloAppRunnerVpc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
